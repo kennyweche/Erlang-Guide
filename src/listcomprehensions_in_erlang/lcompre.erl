@@ -1,6 +1,5 @@
 % This is an example for finding the square of numbers in a list
 -module(lcompre).
--author("kim kiogora <kimkiogora@gmail.com>").
 -export([start/0]).
 
 start()->

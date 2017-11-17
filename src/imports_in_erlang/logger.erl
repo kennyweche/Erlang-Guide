@@ -1,5 +1,4 @@
 -module(logger).
--author("kim kiogora <kimkiogora@gmail.com>").
 -export([log/2]).
 
 

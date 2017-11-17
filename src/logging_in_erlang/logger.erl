@@ -1,5 +1,4 @@
 -module(logger).
--author("kim kiogora <kimkiogora@gmail.com>").
 -export([start/0,log/2]).
 
 %Entry point

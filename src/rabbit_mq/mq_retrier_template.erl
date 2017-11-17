@@ -1,4 +1,4 @@
-RECONNECT ERLANG - RABBITMQ
+% RECONNECT ERLANG - RABBITMQ
 -module (module_name).
 -behaviour(gen_server).
 

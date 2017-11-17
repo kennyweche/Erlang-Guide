@@ -1,0 +1,2 @@
+#link https://github.com/wooga/eredis
+sudo apt-get install erlang-redis-client
